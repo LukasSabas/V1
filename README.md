@@ -23,3 +23,9 @@ v0.1(Dinaminis_Masyvas) Altikti veiksmai:
 2. Namų darbai taip pat saugomi dinaminiame masyve, kuris yra stuktūros dinaminiame masyve;
 3. Pridėta galimybę pažymius įvedinėti, net ir nežinant kiek jų yra.
 4. Pridėta galimybė pažymius į dinaminį masyvą generuoti atsitiktinai;
+------------------------
+v0.2 Atlikti darbai:
+
+1. Papildyta su galimybe duomenis nuskaityti iš failo;
+2. Rikiavimas pakeistas, kad rikiuotu pavardes pagal abecele(A-Z), o jei pavardės lygios tai pagal vardus;
+3. Papildyta, kad išvedime būtų galutinis įvertinimas pagal namų darbų vidurkį ir pagal medianą.
