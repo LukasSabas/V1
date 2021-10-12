@@ -29,3 +29,8 @@ v0.2 Atlikti darbai:
 1. Papildyta su galimybe duomenis nuskaityti iš failo;
 2. Rikiavimas pakeistas, kad rikiuotu pavardes pagal abecele(A-Z), o jei pavardės lygios tai pagal vardus;
 3. Papildyta, kad išvedime būtų galutinis įvertinimas pagal namų darbų vidurkį ir pagal medianą.
+-------------------------
+v0.3 Atlikti darbai:
+1. Visos funkcijos ir strukturos buvo perkelta i .h ir .cpp failus;
+2. Reikiamoje vietoje buvo panaudotas išimčių valdymas;
+3. Patobulintas rūšiavimo metodas.
