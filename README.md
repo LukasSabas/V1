@@ -34,7 +34,7 @@ v0.3 Atlikti darbai:
 1. Visos funkcijos ir strukturos buvo perkelta į .h ir .cpp failus;
 2. Reikiamoje vietoje buvo panaudotas išimčių valdymas;
 3. Patobulintas rūšiavimo metodas.
---------------------------------
+-----------------------
 v0.4 Atlikti darbas:
 1. Galimybė generuoti i failą norimą kieki mokinių su jų namų darbai;
 2. Mokiniai yra rūšiuojami i gerus ir blogus mokinius pagal ju galutinį įvertinimą;
