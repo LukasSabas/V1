@@ -44,6 +44,7 @@ v0.4 Atlikti darbas:
 v0.5 Atlikti darbai:
 1. Galimybė dirbti su std::list vietoje std::vector;
 2. Skaičiuojamas programos darbo laikas su std::list.
+
 PALYGINIMAI
                      vector:                  list:
 100 eilučių:
