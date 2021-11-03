@@ -40,4 +40,30 @@ v0.4 Atlikti darbas:
 2. Mokiniai yra rūšiuojami i gerus ir blogus mokinius pagal ju galutinį įvertinimą;
 3. Surūšiuoti studentai yra surašomi į failą;
 4. Testuojamas programos veikimo laikas(failų kūrimas, duomenų nuskaitymas, studentų rūšiavimas ir surašymas į failus).
+------------------------
+v0.5 Atlikti darbai:
+1. Galimybė dirbti su std::list vietoje std::vector;
+2. Skaičiuojamas programos darbo laikas su std::list.
+PALYGINIMAI
+                     vector:                  list:
+100 eilučių:
+RAM-                 972KB                    960KB
+CPU-                 7%                       4%
+HDD-                    
+1000 eilučių:
+RAM-                 1MB                      2MB 
+CPU-                 18%                      19%
+HDD-                  
+10000 eilučių:
+RAM-                 5MB                      11MB  (Pabaigoje 7MB)            
+CPU-                 26%                      25%
+HDD-                 
+100000 eilučių:
+RAM-                 37MB                     95MB (Pabaigoje 5MB)
+CPU-                 25%                      28%
+HDD-                 
+1000000 eilučių:
+RAM-                 397MB                    946MB (Pabaigoje 37MB)  
+CPU-                 29%                      33%
+HDD-                 
 
