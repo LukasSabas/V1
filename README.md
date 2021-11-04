@@ -46,48 +46,48 @@ v0.5 Atlikti darbai:
 2. Skaičiuojamas programos darbo laikas su std::list.
 
 Sistemos parametrai:
-RAM- 8GB
-CPU- Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.71 GHz
-SSD- 237GB
+RAM- 8GB;
+CPU- Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.71 GHz;
+SSD- 237GB.
 
 PALYGINIMAI
 100 eilučių:
-List nuskaitymas iš failo:      0.010s
-List rūšiavimas į dvi grupes:   0.012s
+List nuskaitymas iš failo:      0.010s;
+List rūšiavimas į dvi grupes:   0.012s;
 
-Vector nuskaitymas iš failo:    0.006s
-Vector rūšiavimas š dvi grupes: 0.007s
+Vector nuskaitymas iš failo:    0.006s;
+Vector rūšiavimas š dvi grupes: 0.007s;
 
 *****************
 1000 eilučių:
-List nuskaitymas iš failo:      0.080s
-List rūšiavimas į dvi grupes:   0.054s
+List nuskaitymas iš failo:      0.080s;
+List rūšiavimas į dvi grupes:   0.054s;
 
-Vector nuskaitymas iš failo:    0.055s
-Vector rūšiavimas š dvi grupes: 0.032s
+Vector nuskaitymas iš failo:    0.055s;
+Vector rūšiavimas š dvi grupes: 0.032s;
 
 *****************
 10000 eilučių:
-List nuskaitymas iš failo:      0.842s
-List rūšiavimas į dvi grupes:   0.510s
+List nuskaitymas iš failo:      0.842s;
+List rūšiavimas į dvi grupes:   0.510s;
 
-Vector nuskaitymas iš failo:    0.550s
-Vector rūšiavimas š dvi grupes: 0.226s
+Vector nuskaitymas iš failo:    0.550s;
+Vector rūšiavimas š dvi grupes: 0.226s;
 
 *****************
 100000 eilučių:
-List nuskaitymas iš failo:      8.443s
-List rūšiavimas į dvi grupes:   5.074s
+List nuskaitymas iš failo:      8.443s;
+List rūšiavimas į dvi grupes:   5.074s;
 
-Vector nuskaitymas iš failo:    5.617s
-Vector rūšiavimas š dvi grupes: 2.160s
+Vector nuskaitymas iš failo:    5.617s;
+Vector rūšiavimas š dvi grupes: 2.160s;
 
 *****************
 1000000 eilučių:
-List nuskaitymas iš failo:      65.363s
-List rūšiavimas į dvi grupes:   45.468s
+List nuskaitymas iš failo:      65.363s;
+List rūšiavimas į dvi grupes:   45.468s;
 
-Vector nuskaitymas iš failo:    44.561s
-Vector rūšiavimas š dvi grupes: 21.573s
+Vector nuskaitymas iš failo:    44.561s;
+Vector rūšiavimas š dvi grupes: 21.573s;
 
 *****************
