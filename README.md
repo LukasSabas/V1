@@ -45,26 +45,44 @@ v0.5 Atlikti darbai:
 1. Galimybė dirbti su std::list vietoje std::vector;
 2. Skaičiuojamas programos darbo laikas su std::list.
 
+Sistemos parametrai:
+RAM- 8GB
+CPU- Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.71 GHz
+SSD- 237GB
+
 PALYGINIMAI
-                     vector:                  list:
 100 eilučių:
-RAM-                 972KB                    960KB
-CPU-                 7%                       4%
-HDD-                    
+List nuskaitymas iš failo:      0.010s
+List rūšiavimas į dvi grupes:   0.012s
+*****************
+Vector nuskaitymas iš failo:    0.006s
+Vector rūšiavimas š dvi grupes: 0.007s
+
 1000 eilučių:
-RAM-                 1MB                      2MB 
-CPU-                 18%                      19%
-HDD-                  
+List nuskaitymas iš failo:      0.080s
+List rūšiavimas į dvi grupes:   0.054s
+*****************
+Vector nuskaitymas iš failo:    0.055s
+Vector rūšiavimas š dvi grupes: 0.032s
+
 10000 eilučių:
-RAM-                 5MB                      11MB  (Pabaigoje 7MB)            
-CPU-                 26%                      25%
-HDD-                 
+List nuskaitymas iš failo:      0.842s
+List rūšiavimas į dvi grupes:   0.510s
+*****************
+Vector nuskaitymas iš failo:    0.550s
+Vector rūšiavimas š dvi grupes: 0.226s
+
 100000 eilučių:
-RAM-                 37MB                     95MB (Pabaigoje 5MB)
-CPU-                 25%                      28%
-HDD-                 
+List nuskaitymas iš failo:      8.443s
+List rūšiavimas į dvi grupes:   5.074s
+*****************
+Vector nuskaitymas iš failo:    5.617s
+Vector rūšiavimas š dvi grupes: 2.160s
+
 1000000 eilučių:
-RAM-                 397MB                    946MB (Pabaigoje 37MB)  
-CPU-                 29%                      33%
-HDD-                 
+List nuskaitymas iš failo:      65.363s
+List rūšiavimas į dvi grupes:   45.468s
+*****************
+Vector nuskaitymas iš failo:    44.561s
+Vector rūšiavimas š dvi grupes: 21.573s
 
