@@ -51,6 +51,7 @@ CPU- Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.71 GHz;
 SSD- 237GB.
 
 PALYGINIMAI
+-----------
 100 eilučių:
 List nuskaitymas iš failo:      0.010s;
 List rūšiavimas į dvi grupes:   0.012s;
