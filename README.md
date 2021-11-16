@@ -90,10 +90,10 @@ Visas veikimas užtruko:         3.217s;
 *****************
 1000000 eilučių:
 List nuskaitymas iš failo:      10.261s;
-List rūšiavimas į dvi grupes:   9.755s;
-Visas veikimas užtruko:         33.699s;
+List rūšiavimas į dvi grupes:   7.611s;
+Visas veikimas užtruko:         26.987s;
 
-Vector nuskaitymas iš failo:    8.418s;
-Vector rūšiavimas š dvi grupes: 8.743s;
-Visas veikimas užtruko:         30.845s;
+Vector nuskaitymas iš failo:    5.808s;
+Vector rūšiavimas š dvi grupes: 7.959s;
+Visas veikimas užtruko:         25.165s;
 *****************
