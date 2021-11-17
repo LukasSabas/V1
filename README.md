@@ -94,6 +94,39 @@ List rūšiavimas į dvi grupes:   7.611s;
 Visas veikimas užtruko:         26.987s;
 
 Vector nuskaitymas iš failo:    5.808s;
-Vector rūšiavimas š dvi grupes: 7.959s;
-Visas veikimas užtruko:         25.165s;
+--Vector rūšiavimas š dvi grupes: 7.959s;
+--Visas veikimas užtruko:         25.165s;
 *****************
+10000000 eilučių:
+List nuskaitymas iš failo:      89.886s;
+--List rūšiavimas į dvi grupes:   108.215s;
+--Visas veikimas užtruko:         306.140s;
+
+Vector nuskaitymas iš failo:    54.313s;
+--Vector rūšiavimas š dvi grupes: 77.982s;
+--Visas veikimas užtruko:         238.419s;
+*****************
+----------------
+v1.0 Atlikti darbai:
+
+1. Ištirti du nauji skirstymo būdai: skirstymas į du naujus listus/vektorius ir vienų duomenų perkėlimas į naują listą/vektorių.
+
+Visų trijų skirstymų playginimas:
+
+LIST:
+|Duomenų kiekis|Laikas iš karto rašant| Laikas skirstant| Laikas perkeliant ir trinant|
+| --- | --- | --- | --- |
+|1000| 0.019s| 0.001s| 0.0009s|
+|10000| 0.104s| 0.012s| 0.009s|
+|100000| 0.935s| 0.120s| 0.079s|
+|1000000| 7.611s| 1.254s| 2.261s|
+|10000000| 108.215s| 22.409s| 129.890s|
+******************
+VECTOR:
+|Duomenų kiekis|Laikas iš karto rašant| Laikas skirstant| Laikas perkeliant ir trinant|
+| --- | --- | --- | --- |
+|1000| 0.013s| 0.0003s| 0.0004s|
+|10000| 0.099s| 0.003s| 0.002s|
+|100000| 0.854s| 0.028s| 0.027s|
+|1000000| 7.959s| 0.298s| 0.360s|
+|10000000| 77.982s| 153.689s| 13.022s|
