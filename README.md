@@ -50,62 +50,26 @@ RAM- 8GB;
 CPU- Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.71 GHz;
 SSD- 237GB.
 
-PALYGINIMAI
-100 eilučių:
-List nuskaitymas iš failo:      0.001s;
-List rūšiavimas į dvi grupes:   0.002s;
-Visas veikimas užtruko:         0.009s;
+PLYGINIMAI:
 
-Vector nuskaitymas iš failo:    0.001s;
-Vector rūšiavimas š dvi grupes: 0.002s;
-Visas veikimas užtruko:         0.009s;
+Nuskaitymas iš failo:
+|Tipas| 1000 laikas| 10000 laikas| 100000 laikas| 1000000 laikas| 10000000 laikas|
+|--- | --- | --- | --- | --- | --- |
+|List| 0.012s | 0.135s | 1.193s | 10.261s | 89.886s |
+|Vector| 0.010s | 0.110s | 0.919s | 5.808s | 54.313s |
+*********************
+Rūšiavimas į dvi dalis:
+|Tipas| 1000 laikas| 10000 laikas| 100000 laikas| 1000000 laikas| 10000000 laikas|
+|--- | --- | --- | --- | --- | --- |
+|List| 0.019s | 0.104s | 0.935s | 7.611s | 108.215s |
+|Vector| 0.013s | 0.099s | 0.854s | 7.959s | 77.982s | 
+********************
+Visas veikimas užtruko:
+|Tipas| 1000 laikas| 10000 laikas| 100000 laikas| 1000000 laikas| 10000000 laikas|
+|--- | --- | --- | --- | --- | --- |
+|List| 0.049s | 0.410s | 3.571s | 26.987s | 306.140s |
+|Vector|0.041s | 0.381s | 3.217s | 25.165s | 238.419s |
 
-*****************
-1000 eilučių:
-List nuskaitymas iš failo:      0.012s;
-List rūšiavimas į dvi grupes:   0.019s;
-Visas veikimas užtruko:         0.049s;
-
-Vector nuskaitymas iš failo:    0.010s;
-Vector rūšiavimas š dvi grupes: 0.013s;
-Visas veikimas užtruko:         0.041s;
-*****************
-10000 eilučių:
-List nuskaitymas iš failo:      0.135s;
-List rūšiavimas į dvi grupes:   0.104s;
-Visas veikimas užtruko:         0.410s;
-
-Vector nuskaitymas iš failo:    0.110s;
-Vector rūšiavimas š dvi grupes: 0.099s;
-Visas veikimas užtruko:         0.381s;
-*****************
-100000 eilučių:
-List nuskaitymas iš failo:      1.193s;
-List rūšiavimas į dvi grupes:   0.935s;
-Visas veikimas užtruko:         3.571s;
-
-Vector nuskaitymas iš failo:    0.919s;
-Vector rūšiavimas š dvi grupes: 0.854s;
-Visas veikimas užtruko:         3.217s;
-*****************
-1000000 eilučių:
-List nuskaitymas iš failo:      10.261s;
-List rūšiavimas į dvi grupes:   7.611s;
-Visas veikimas užtruko:         26.987s;
-
-Vector nuskaitymas iš failo:    5.808s;
---Vector rūšiavimas š dvi grupes: 7.959s;
---Visas veikimas užtruko:         25.165s;
-*****************
-10000000 eilučių:
-List nuskaitymas iš failo:      89.886s;
---List rūšiavimas į dvi grupes:   108.215s;
---Visas veikimas užtruko:         306.140s;
-
-Vector nuskaitymas iš failo:    54.313s;
---Vector rūšiavimas š dvi grupes: 77.982s;
---Visas veikimas užtruko:         238.419s;
-*****************
 ----------------
 v1.0 Atlikti darbai:
 
