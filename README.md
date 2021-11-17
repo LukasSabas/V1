@@ -94,3 +94,13 @@ VECTOR:
 |100000| 0.854s| 0.028s| 0.027s|
 |1000000| 7.959s| 0.298s| 0.360s|
 |10000000| 77.982s| 153.689s| 13.022s|
+
+******************************
+
+Naudojimosi instrukcija:
+1. Programoje galima skaityti mokinius ir jų pažymius iš .txt failo, generuoti atistiktinai arba surašyi paleidus programą.
+2. Galima galutinį pažymį skaičiuoti pagal namų darbų vidurkį arba medianą.
+3. Duomenis galima išvesti į ekraną arba į .txt failą.
+4. Duomenis išvedant į ekraną galima pasirinkti norimą mokinių rūšiavimo būdą: iškarto rašyti į failą, skirstyti į atskirus masyvus ir išvesti, kopijuoti duomenis iš pradinio masyvo į kitą ir juos panaikinti iš pirmojo.
+5. Viską galimą atlikti naudojant list arba vector.
+6. Norimus veiksmus galėsti pasirinkti paleidus programą.
