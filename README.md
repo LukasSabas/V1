@@ -104,3 +104,4 @@ Naudojimosi instrukcija:
 4. Duomenis išvedant į ekraną galima pasirinkti norimą mokinių rūšiavimo būdą: iškarto rašyti į failą, skirstyti į atskirus masyvus ir išvesti, kopijuoti duomenis iš pradinio masyvo į kitą ir juos panaikinti iš pirmojo.
 5. Viską galimą atlikti naudojant list arba vector.
 6. Norimus veiksmus galėsti pasirinkti paleidus programą.
+7. Prieš pradedant naudotis programa reikia turėti .txt failus su 1000, 10000, 100000, 1000000, 10000000 eilučių duomenų, kai namų darbų yra 10. Arba pasinaudoti generatoriumi ir susikurti.
